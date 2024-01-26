@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amir doustdar
-- 💻 I'm currently learning and  SomeHow working on JavaScript and Node.js 
-- 📫 Ask me about Python & JavaScript And I answer that if I Know ...
+- 💻 I'm currently learning and  SomeHow working on JavaScript and Node.js
+- 🖥 I previously worked on Python and Django
+- 📫 Ask me about Python and JavaScript and I will answer if I know...
 
 ✍️ Random Dev Quote
 
