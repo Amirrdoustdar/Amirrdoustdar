@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Amir doustdar
-- 💻 I'm currently learning and  SomeHow working on JavaScript and Node.js
-- 🖥 I previously worked on Python and Django
+- 👋 Hi, I’m Amir Doustdar, back-end developer
+- 🖥 I relearning and  SomeHow working on Python and Django
 - 📫 Ask me about Python and JavaScript and I will answer if I know...
 
 ✍️ Random Dev Quote
