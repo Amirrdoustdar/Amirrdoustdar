@@ -1,7 +1,7 @@
 # About Me:
 - 👋 Hi, I’m Amir Doustdar, back-end developer
 - 🖥 I relearning and  SomeHow working on Python and Django
-- 📫 Ask me about Python and JavaScript and I will answer if I know...
+- 📫 Ask me about Python and and I will answer if I know...
 
 
 ## 🌐 Socials:
