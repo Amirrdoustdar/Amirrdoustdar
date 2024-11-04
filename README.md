@@ -3,10 +3,6 @@
 - 🖥 I relearning and  SomeHow working on Python and Django
 - 📫 Ask me about Python and JavaScript and I will answer if I know...
 
-✍️ Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirdoustdar/)
